@@ -103,3 +103,11 @@ The **OCR Prescription Reader** is a hybrid system that combines advanced image 
    - Tesseract OCR installed locally.
 2. **Dependencies**:
    - `numpy`, `opencv-python`, `pytesseract`, `requests`, `fpdf`, `dotenv`, and `google.generativeai`.
+  
+## Authors
+
+| Name | GitHub | LinkedIn |
+| ---- | ------ | -------- |
+| Abdulmonem Elsherif | [@AbdulmonemElsherif](https://github.com/AbdulmonemElsherif) | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmonem-elsherif?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) |
+| Sharif Ehab | [@Sharif_Ehab](https://github.com/SharifEhab) | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharif-elmasry-b167a3252/) |
+
