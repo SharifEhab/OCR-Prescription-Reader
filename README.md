@@ -90,9 +90,14 @@ The **OCR Prescription Reader** is a hybrid system that combines advanced image 
 
 ### **Image Preprocessing**
 ![preprocessed_prescription](https://github.com/user-attachments/assets/421096d9-0244-4dff-bb7c-abe00519d33e)
+![image](https://github.com/user-attachments/assets/804bf1e8-8ab7-47e1-940e-0082b413c84d)
+![image](https://github.com/user-attachments/assets/a98b12fd-e4a5-408b-94ad-a05673b9e4fe)
+![image](https://github.com/user-attachments/assets/588a9676-261f-48d3-99ac-33b76571dc7b)
+![image](https://github.com/user-attachments/assets/58d97e40-ddc4-4a3e-8e4e-81e8936a662c)
 
 ### **Extracted and Validated Text**
-![preprocessed_with_boxes](https://github.com/user-attachments/assets/cbbdd9c2-6a19-475c-8376-6f4dcd92addc)
+![image](https://github.com/user-attachments/assets/3b4920f1-3274-4215-bfcd-1f943fd0a950)
+![image](https://github.com/user-attachments/assets/9f39b052-f892-414e-8297-8214569ea0e5)
 
 ---
 
